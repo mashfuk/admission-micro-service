@@ -21,4 +21,7 @@ public class AdmissionServiceApplication {
 	    return new RestTemplate();
 	}
 
+	
+	//good luck!!!
+	
 }
